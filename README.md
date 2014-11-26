@@ -1,6 +1,8 @@
 Simple Grid - Framework
 ===================
-来自：http://www.getsimplegrid.com/      我把它的文档翻译成中文了，详见： http://benchu.org/getsimplegrid.com/
+来自：http://www.getsimplegrid.com/      
+我把它的文档翻译成中文了，详见： http://benchu.org/getsimplegrid.com/
+
 Simple Grid - Framework 是一款极简的响应式网格系统，你可以在你的项目中使用它。没有样式，没有设计，只有纯粹的网格！Any style, any design. Just grid!
 这个网格基于占桌面屏幕尺寸宽度的80%和移动设备屏幕尺寸的96%的容器。该容器被分为12列。所以，在任何设备上，你的网站宽度总是占用屏幕的80%或者96%。
  
