@@ -118,16 +118,22 @@ input, select {
 	width: 100%;
 }
 
-@media only screen and (max-width : 768px) and (min-width : 480px) {
+@media only screen and (max-width : 900px) and (min-width : 600px) {
 	.container {
 		width: 96%;
 	}
-	[class*="col"] {
+	/*[class*="col"] {
     	width: 50%;
  	}
+
+ 	.col-4 {
+		width: 33.3333333333%;
+	}
+
  	.col-12 {
  		width:100%;
- 	}
+ 	}*/
+
  	.col-offset-1, .col-offset-2, .col-offset-3, .col-offset-4,
  	.col-offset-5, .col-offset-6, .col-offset-7, .col-offset-8,
  	.col-offset-9, .col-offset-10, .col-offset-11, .col-offset-12 {
@@ -136,7 +142,7 @@ input, select {
  	}
 }
 
-@media only screen and (max-width : 479px) {
+@media only screen and (max-width : 599px) {
 	.container {
 		width: 96%;
 	}
